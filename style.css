@@ -1,0 +1,31 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#wrapper {
+  width: 970px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  margin: 5px 5px;
+  border: 2px solid black;
+}
+
+h1 {
+  text-align: left;
+  font-size: 25px;
+}
+
+button {
+  display: block;
+  height: 40px;
+  width: 100px;
+  font-size: 25px;
+  background-color: lightsalmon;
+  border-radius: 5px;
+  box-shadow: 2px 2px 8px black;
+}
